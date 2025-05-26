@@ -24,4 +24,4 @@ Aplicación de chat en tiempo real desarrollada con Firebase, que permite a los 
 3. Agrega tus credenciales de Firebase
 4. Ejecuta la aplicación
 
-## Estructura del Proyecto
+
